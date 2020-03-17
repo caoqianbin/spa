@@ -1,0 +1,23 @@
+{
+  "name": "spa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "home.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caoqianbin/spa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caoqianbin/spa/issues"
+  },
+  "homepage": "https://github.com/caoqianbin/spa#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
