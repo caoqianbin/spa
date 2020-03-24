@@ -1,0 +1,16 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 80%;
+  }
+.main{
+   margin-left: 10px;
+   float: left;
+}
+.main1{
+    width: 600px;
+  height: 350px;
+  margin-left: 10px;
+  float: left;
+}
